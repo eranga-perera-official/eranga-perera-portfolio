@@ -1,0 +1,89 @@
+{
+  "site": {
+    "name": "Eranga Perera",
+    "role": "Senior Creative Designer",
+    "location": "Sri Lanka",
+    "intro": "I shape brands, campaigns and digital experiences through purposeful design and clear visual storytelling.",
+    "about": "A senior creative designer with experience across e-commerce and digital marketing, newspaper layout and independent branding projects. I bring creative thinking, visual craft and a practical understanding of marketing together to create work that looks considered and works hard.",
+    "email": "",
+    "whatsapp": "",
+    "linkedin": "",
+    "behance": "",
+    "instagram": ""
+  },
+  "experience": [
+    {
+      "role": "Senior Creative Designer",
+      "company": "Abans PLC · E-commerce & Digital Marketing",
+      "period": "Sep 2022 — Present",
+      "detail": "Campaign creative for BuyAbans.com, including digital advertising, website banners, product promotions and social content."
+    },
+    {
+      "role": "Graphic Designer / Layout Artist",
+      "company": "Wijeya Newspapers Ltd",
+      "period": "Jan 2017 — Sep 2022",
+      "detail": "Publication design, page layout and graphic design for print."
+    },
+    {
+      "role": "Freelance Creative Designer",
+      "company": "Independent",
+      "period": "2016 — Present",
+      "detail": "Branding, advertising and promotional design across hospitality, real estate, beauty and retail."
+    }
+  ],
+  "capabilities": [
+    "Brand identity",
+    "E-commerce campaigns",
+    "Social & paid-ad creative",
+    "Motion graphics & video",
+    "Web & UI concepts"
+  ],
+  "tools": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "DaVinci Resolve",
+    "CapCut",
+    "Midjourney",
+    "Gemini",
+    "Freepik",
+    "Magnific AI"
+  ],
+  "brands": [
+    "Apple",
+    "LG",
+    "BOSS",
+    "Under Armour",
+    "Skechers",
+    "Titan",
+    "Haier",
+    "HP",
+    "Philips",
+    "JBL"
+  ],
+  "projects": [
+    {
+      "name": "NOVA",
+      "type": "Branding & campaign creative",
+      "summary": "A visual identity and campaign direction for a consumer electronics brand.",
+      "tone": "lime"
+    },
+    {
+      "name": "Odyssey Travels Sri Lanka",
+      "type": "Brand identity & digital experience",
+      "summary": "A premium travel brand direction built around discovery and tailored journeys.",
+      "tone": "sand"
+    },
+    {
+      "name": "Nexus Audio Lab",
+      "type": "Brand identity",
+      "summary": "A distinctive identity concept for an audio and creative experience brand.",
+      "tone": "blue"
+    },
+    {
+      "name": "E-commerce campaigns",
+      "type": "Digital advertising & art direction",
+      "summary": "Promotional creative, product storytelling and campaign assets for digital retail.",
+      "tone": "violet"
+    }
+  ]
+}
